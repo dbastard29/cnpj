@@ -5,3 +5,9 @@ To do it so, you just have to copy the direction of the folder where you downloa
 %%%%YOUR FOLDER FILE%%%%% this should make the code run on you R console.
 
 Of course, you have also to change the name of the files because they change on every update made by government.
+
+Links:
+Files:
+https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj
+RStudio:
+https://posit.co/download/rstudio-desktop/
