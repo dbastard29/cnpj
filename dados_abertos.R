@@ -1,3 +1,14 @@
+#############################
+# DEU CERTO? AGRADECE A GENTE PELO PIX
+#
+# (43) 991701144
+#
+# $5, $10 ou $30 ou o que vc puder.
+# SE NAO DEU CERTO, A GENTE AJUDA
+# santosdias.com
+#############################
+
+
 # Instalação e Carregamento de Todos os Pacotes----
 pacotes <- c("RColorBrewer", "wordcloud", "grDevices", "data.table", 
              "tidyverse", "readxl", "dplyr", "tm", "readr", "stringi", 
