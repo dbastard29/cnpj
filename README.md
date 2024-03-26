@@ -11,3 +11,5 @@ Files:
 https://dados.gov.br/dados/conjuntos-dados/cadastro-nacional-da-pessoa-juridica---cnpj
 RStudio:
 https://posit.co/download/rstudio-desktop/
+GitHub:
+https://github.com/dbastard29
