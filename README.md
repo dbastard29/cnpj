@@ -13,3 +13,7 @@ RStudio:
 https://posit.co/download/rstudio-desktop/
 GitHub:
 https://github.com/dbastard29
+Special Thanks Paypal:
+jacqueshenrique@yahoo.com.br
+PIX
+(43)991921144
