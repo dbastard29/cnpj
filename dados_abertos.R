@@ -217,13 +217,12 @@ for (i in 1:length(arquivos)) {
 cnpj_pr <- 
   do.call("rbind", lista)
 rm(lista)
-
+save(cnpj_pr, file = "cnpj_pr_ESTABELE.RData")
 #Comecar por aqui apos passar pelas tabelas ESTABELE
-load("%%%%YOUR FOLDER FILE%%%%%/cnpj_pr_ESTABELE.RData")
+#load("%%%%YOUR FOLDER FILE%%%%%/cnpj_pr_ESTABELE.RData")
 data <- cnpj_pr
 data$estado <- "PR"
 data$id_cnpj = data$V1
-#save(cnpj_pr, file = "cnpj_pr_ESTABELE.RData")
 #write_csv(cnpj_pr, "cnpj_pr_ESTABELE.csv")
 
 
